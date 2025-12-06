@@ -1,0 +1,44 @@
+# Visual Studio 项目文件
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.aps
+
+# 编译生成的文件
+Debug/
+Release/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.manifest
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# Visual Studio 配置文件
+.vs/
+ipch/
+
+# MFC 资源文件
+*.rc2
+*.ico
+
+# 预编译头文件
+*.pch
+*.gch
+
+# 其他不需要版本控制的文件
+*.md
+*.txt
